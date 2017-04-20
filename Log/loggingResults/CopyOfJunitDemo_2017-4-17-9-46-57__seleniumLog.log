@@ -1,0 +1,8 @@
+四月 17, 2017 9:46:57 上午 com.my.web.lib.SeleniumBaseLib newClassStart
+信息: *******************CopyOfJunitDemo*******************
+四月 17, 2017 9:47:05 上午 com.my.web.lib.SeleniumBaseLib newverifyEquals
+信息: 111-期望结果:11-实际结果:11;执行通过-执行方法:1-当前URL:1
+四月 17, 2017 9:47:12 上午 com.my.web.lib.SeleniumBaseLib newverifyEquals
+信息: 2-期望结果:2-实际结果:2;执行通过-执行方法:2-当前URL:2
+四月 17, 2017 9:47:20 上午 com.my.web.lib.SeleniumBaseLib newverifyEquals
+信息: 3-期望结果:3-实际结果:3;执行通过-执行方法:3-当前URL:3

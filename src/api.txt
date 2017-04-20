@@ -1,0 +1,20 @@
+//a[contains(text(),"账户管理")]   //包含
+//a[text()='账户管理']              //
+//div[contains(@class,'111')]
+//input[@type='11' and @value='222']  //input[@type='11'][@value='222'][][]
+//div[div[@id='1111']] 
+following-sibling
+preceding-sibling
+
+//input[@id='1111']/following-sibling::input //找到该元素的下一个节点
+//input[@id='2222']/preceding-sibling::span //找到前一个子节点
+//input[start-with(@id,'123')]  //已123开头的
+//input[not(@id='1234')]
+//input[not(contains(text(),"xpath"))]
+//div/input[2]   //div下的第二个input
+//div[@id='position']/span[position()=2]
+//div[@id='position']/span[position()>2]   //position 索引值
+//div[@id='position']/span[last()-2]  倒数第二个
+//span[@id='aaa' or text()='333']  或者
+//span[substring(@name,3,5)='ttt']  //name是属性，3是第几个从1开始，5是长度
+//*[@*='bruce']
